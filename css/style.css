@@ -714,7 +714,7 @@ a:focus, a:hover {
   z-index: 9;
   height: 70px;
   width: 70px;
-  background: #005d4b;
+  background: #005d4a41;
   color: #fff;
   border: 0;
   line-height: 70px;
@@ -752,7 +752,7 @@ a:focus, a:hover {
 }
 
 .slick-arrow:hover {
-  background: #005d4a41;
+  background: #005d4b;
 }
 
 .prevArrow {
